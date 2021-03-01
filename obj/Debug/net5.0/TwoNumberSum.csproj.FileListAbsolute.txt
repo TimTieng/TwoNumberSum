@@ -1,0 +1,15 @@
+/Users/timtieng/Github/CSharp/TwoNumberSum/bin/Debug/net5.0/TwoNumberSum.deps.json
+/Users/timtieng/Github/CSharp/TwoNumberSum/bin/Debug/net5.0/TwoNumberSum.runtimeconfig.json
+/Users/timtieng/Github/CSharp/TwoNumberSum/bin/Debug/net5.0/TwoNumberSum.runtimeconfig.dev.json
+/Users/timtieng/Github/CSharp/TwoNumberSum/bin/Debug/net5.0/TwoNumberSum.dll
+/Users/timtieng/Github/CSharp/TwoNumberSum/bin/Debug/net5.0/ref/TwoNumberSum.dll
+/Users/timtieng/Github/CSharp/TwoNumberSum/bin/Debug/net5.0/TwoNumberSum.pdb
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.csprojAssemblyReference.cache
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.AssemblyInfoInputs.cache
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.AssemblyInfo.cs
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.csproj.CoreCompileInputs.cache
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.dll
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/ref/TwoNumberSum.dll
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.pdb
+/Users/timtieng/Github/CSharp/TwoNumberSum/obj/Debug/net5.0/TwoNumberSum.genruntimeconfig.cache
